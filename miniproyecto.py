@@ -1,0 +1,2 @@
+print("archivo mini")
+
